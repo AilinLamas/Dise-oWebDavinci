@@ -1,0 +1,42 @@
+body {
+background-image: url(../recursos-audio-visuales/infogeneral/fondo.png);
+background-size: cover;
+background-attachment:fixed;
+}
+
+p {
+    font-size: 12pt;
+    text-align: left;
+    color: #ffffff;
+   padding: 1%;
+	
+  }
+
+h2 {
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-bottom: -2%;
+    color: #ffffff;
+
+}
+
+.color1 {
+    background-color: #273a97;
+}
+
+.color1 h2{
+    color: #ffffff;
+}
+
+.color2 {
+background-color: #3e51b0;
+
+}
+
+.color3 {
+    background-color: #5b6ecd;
+}
+
+.color4 {
+    background-color: #778ae7;
+}

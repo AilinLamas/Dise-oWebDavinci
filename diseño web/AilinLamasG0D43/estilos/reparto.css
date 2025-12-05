@@ -1,0 +1,64 @@
+.lineapersonajes {
+width: 100%;
+display: block;
+margin-bottom: 0px;
+
+}
+
+.tituloreparto {
+text-align: left;
+margin-top: 10px;
+margin-top: -15%;
+margin-bottom: 1%;
+}
+
+.contenedor{
+    display:inline-flex;
+    justify-content: space-between;
+    gap:20px;
+    border-radius: 10px; 
+    
+}
+
+.tarjeta{
+    background-color: #000000;
+    border: #273a97;
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+  
+}
+
+.tarjeta img{
+    width: 50%;
+    display: block;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-top: 10%;
+  
+}
+
+.tarjeta h2{
+    font-family: titulos;
+    color:#ffffff;
+    font-size: 30px;
+    margin-left: 10%;
+}
+
+.tarjeta h3 {
+    font-family: textos;
+    font-style: italic;
+    font-weight: lighter;
+    color:#ffffff;
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+.tarjeta p{
+    font-family: textos;
+    font-size: 10pt;
+    text-align: left;
+    color: #ffffff;
+    margin: 10%;
+}
