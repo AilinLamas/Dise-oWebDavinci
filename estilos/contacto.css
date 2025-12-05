@@ -1,0 +1,66 @@
+body {
+    background-image: url(../recursos-audio-visuales/contacto/fondocontacto.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+H1{
+    font-family: subtitulos;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: left;
+}
+
+p{
+    font-family: subtitulos;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    margin: 6px;
+}
+
+form {
+    background-color: rgb(162, 198, 221);
+    width: 25%;
+    max-width: 1000px;
+    font-size: 16px;
+    border-radius: 5%;
+    
+}
+
+.relleno {
+    padding: 10px;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+input,
+button {
+    font-size: 14px;
+    padding: 10px;
+    margin: 5px;
+
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+}
+
+.terminos {
+    font-size: 12px;
+   
+}
+
+form:invalid {
+    outline: 3px solid rgb(174, 12, 12);
+}
+
+form:valid {
+    outline: 3px solid rgb(40, 193, 134);
+
+}

@@ -1,0 +1,58 @@
+body {
+background-image: url(/recursos-audio-visuales/index/megamenteFondoIndex.jpg);
+background-size: cover;
+background-attachment:fixed;
+}
+
+.metropolis {
+ position: relative;
+ top: 40px;
+ left: 500px;
+ width: 100%;
+
+}
+
+.subtitulo {
+    background-color: #ffffff;
+    color: #273a97;
+    width: 1000px;
+    font-family: titulos;
+    font-size: 60pt;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+
+}
+
+p {
+    font-size: x-large;
+    text-align: justify;
+    color: #ffffff;
+   margin: 14px;;
+	width: 1000px;
+	height: 500px;
+  }
+
+
+  audio {
+    position: absolute;
+    z-index: -1
+
+}
+
+.giff img{
+width: 20%;
+ margin-top: 40px;
+ margin-bottom: 20px ;
+ margin-left: 1100px;
+ border-radius: 50%;
+box-shadow:  28px 28px 55px #01051c,
+             -2px -5px 55px rgb(162, 198, 221);
+
+}
+
+.icono img {
+    width: 30px;
+    margin-top: 15px;
+    
+}

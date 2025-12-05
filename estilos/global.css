@@ -1,0 +1,68 @@
+@font-face {
+    font-family: titulos;
+    src: url(../fuentes/EBGaramond-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: subtitulos;
+    src: url(/fuentes/GoogleSansFlex-VariableFont_GRAD\,ROND\,opsz\,slnt\,wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: textos;
+    src: url(/fuentes/GoogleSansFlex-VariableFont_GRAD\,ROND\,opsz\,slnt\,wdth\,wght.ttf);
+}
+
+.logo {
+    height: 80px;
+    padding: 3px;
+}
+
+header {
+    background-color: #273a97;
+    height: 90px;
+}
+
+.divheader {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navheader {
+    display: flex;
+    gap: 20px;
+}
+
+.aheader {
+    font-family: textos;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    color: #273a97;
+    font-family: textos;
+    font-size: 20pt;
+}
+
+footer {
+    background-color: #000000;
+    height: 70px;
+}
+
+.footernav {
+    display: flex;
+    gap: 110px;
+    justify-content: center;
+}
+
+.footernav a {
+    font-family: subtitulos;
+    font-size: 10pt;
+    text-decoration: none;
+    color: rgb(162, 198, 221);
+    margin: 25px;
+}
