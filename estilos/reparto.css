@@ -92,3 +92,8 @@ margin-bottom: 1%;
     border-color: #000000;
    
 }
+
+.error404:visited {
+    color:black;
+}
+
