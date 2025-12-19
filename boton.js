@@ -1,4 +1,4 @@
-alert("¡FELIZ CUMPLEAÑOS FACUNDO!")
+alert("¡FELICES FIESTAS FACUNDO!")
 
 
 function playPausa() {

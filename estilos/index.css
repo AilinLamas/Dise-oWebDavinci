@@ -9,7 +9,6 @@ background-attachment:fixed;
  top: 40px;
  left: 500px;
  width: 100%;
-
 }
 
 .subtitulo {
@@ -21,7 +20,6 @@ background-attachment:fixed;
     text-align: center;
     margin: 0;
     padding: 20px;
-
 }
 
 p {
@@ -37,7 +35,6 @@ p {
   audio {
     position: absolute;
     z-index: -1
-
 }
 
 .giff img{
@@ -54,5 +51,4 @@ box-shadow:  28px 28px 55px #01051c,
 .icono img {
     width: 30px;
     margin-top: 15px;
-    
 }

@@ -25,7 +25,6 @@ form {
     max-width: 1000px;
     font-size: 16px;
     border-radius: 5%;
-    
 }
 
 .relleno {
@@ -43,7 +42,6 @@ button {
     font-size: 14px;
     padding: 10px;
     margin: 5px;
-
 }
 
 .centrado {
@@ -53,7 +51,6 @@ button {
 
 .terminos {
     font-size: 12px;
-   
 }
 
 form:invalid {
@@ -62,5 +59,4 @@ form:invalid {
 
 form:valid {
     outline: 3px solid rgb(40, 193, 134);
-
 }

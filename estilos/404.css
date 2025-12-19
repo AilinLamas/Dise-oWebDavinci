@@ -1,0 +1,9 @@
+body {
+background-image: url(/recursos-audio-visuales/error\ 404.jpg);
+background-size: cover;
+background-attachment:fixed;
+}
+
+.espacio {
+    margin-bottom: 50%;
+}

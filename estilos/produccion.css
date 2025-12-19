@@ -6,7 +6,6 @@ body {
 
 .dreamworks {
     width: 100%;  
-    
 }
 
 .historia {
@@ -25,7 +24,6 @@ body {
     padding-top: 10px;
     padding-bottom: 6px;
     padding-left: 18px;
-
 }
 
 .partes {
@@ -43,18 +41,8 @@ body {
     padding-left: 16px;
 }
 
-h2{
+.pelis {
     color: white;
-
-}
-
-.contenedor {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 3%;
-    width: 90%;
-    margin: 3% auto;
 }
 
 .otraspelis {
@@ -63,7 +51,7 @@ h2{
     margin: 0; 
     padding: 3%;
     margin-bottom: 40px;
-    
+   
 }
 
 .pelidescripcion {
@@ -71,21 +59,27 @@ h2{
     gap: 20px;
     width:fit-content;
     margin-top: 30px;
-   border-radius: 20px;
+    border-radius: 20px;
     overflow: hidden;
     background-color: rgb(255, 255, 255);
     box-shadow: 0px 0px 10px;
-    
 }
 
-.pelidescripcion h3 {
+.titutlootraspelis {
 font-size: 44px;
+color: #273a97;
+margin-bottom: -3%;
+}
+
+.tecnicosotraspelis{
+font-size: 30px;
+font-weight: 350; 
+margin-bottom: -1%;
 }
 
 .pelidescripcion p {
     font-size: 20px;
 }
-
 
 .video{
   aspect-ratio: 16/9;
