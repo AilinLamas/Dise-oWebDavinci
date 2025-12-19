@@ -76,8 +76,8 @@ margin-bottom: 1%;
 }
 
 .error404 {
-    color: white;
     text-decoration: none;
+    color: white;
     font-weight: bold;
     text-shadow: 0 0 10px rgb(127, 158, 193);
     font-size: 30px;
@@ -96,4 +96,5 @@ margin-bottom: 1%;
 .error404:visited {
     color:black;
 }
+
 
